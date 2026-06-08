@@ -23,13 +23,6 @@ A custom-designed clipless bike pedal developed as part of the UBCO Engineering 
 - **Software:** SOLIDWORKS
 - **Manufacturing:** 3D printing + precision water jet cutting
 
-## Key Features
-
-- Custom clipless mechanism for improved foot retention
-- Lightweight ABS plastic construction
-- Spring steel clips engineered for durability and performance
-- Professional prototyping and manufacturing process
-
 ---
 
 [← Back to Projects](../../README.md)
