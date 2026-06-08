@@ -6,17 +6,12 @@ Welcome to my project portfolio. Browse my designs and 3D models below.
 
 ## Projects
 
-### [Project 1](./projects/project-1/)
-![Project 1 Thumbnail](./projects/project-1/thumbnail.jpg)
-
-### [Project 2](./projects/project-2/)
-![Project 2 Thumbnail](./projects/project-2/thumbnail.jpg)
-
-### [Project 3](./projects/project-3/)
-![Project 3 Thumbnail](./projects/project-3/thumbnail.jpg)
+### [Clipless Bike Pedal](./projects/clipless-bike-pedal/)
+Custom-designed clipless pedal with 3D printed body and water jet-cut spring steel clips.  
+*UBCO Engineering Capstone | April 2019*
 
 ---
 
-## Contact
+## About
 
-For inquiries, please reach out!
+This showcase features mechanical design and engineering projects with detailed 3D models and photographic documentation.
