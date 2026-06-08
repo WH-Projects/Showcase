@@ -8,7 +8,7 @@ A custom-designed clipless bike pedal developed as part of the UBCO Engineering 
 
 ## Gallery
 
-![SolidWorks Model](./images/Solidworks Model.jpg)
+![SolidWorks Model](./images/SolidWorks Model.jpg)
 
 ![3D Printed Prototype](./images/3D Printed Prototype.jpg)
 
