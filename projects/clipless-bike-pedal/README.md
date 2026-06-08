@@ -8,15 +8,10 @@ A custom-designed clipless bike pedal developed as part of the UBCO Engineering 
 
 ## Gallery
 
-![SolidWorks Model](./images/solidworks-model.jpg)
+![SolidWorks Model](./images/Solidworks Model.jpg)
 
-![3D Printed Prototype - Front View](./images/prototype-view-1.jpg)
+![3D Printed Prototype](./3D Printed Prototype.jpg)
 
-![3D Printed Prototype - Top View](./images/prototype-view-2.jpg)
-
-## Design Files
-
-- [3D Model (STEP)](./pedal-assembly.step) - Download the complete SOLIDWORKS model
 
 ## Project Details
 
