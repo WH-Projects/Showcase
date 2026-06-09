@@ -14,4 +14,4 @@ Custom-designed clipless pedal with 3D printed body and water jet-cut spring ste
 
 ## About
 
-This showcase features mechanical design and engineering projects with detailed 3D models and photographic documentation.
+This showcase features mechanical design and engineering projects.
