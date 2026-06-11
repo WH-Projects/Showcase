@@ -13,7 +13,7 @@ Handle Bar extensions for triathalon bike. Bars encourage a more aerodynamic for
 
 ![Wrapped Handle](./images/HandlebarExtensionWrapped.jpg)
 
-![Wrapped Handle](./images/HandlebarExtension.jpg)
+![Wrapped Handle](./images/HandlebarExtensions.jpg)
 
 ### 3D Model
 
