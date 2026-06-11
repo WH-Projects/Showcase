@@ -1,4 +1,4 @@
-# Clipless Bike Pedal
+# Dual Camera Mount
 
 **Category:** Practical Design | Home Security
 
@@ -10,8 +10,11 @@ A custom designed mount to hold two turret security cameras. The mount is design
 
 ![Dual Camera Mount](./images/DualCameraMount.jpg)
 
-![Dual Camera Mount Model](./images/DualCameraMount0.3-Body.gltf)
+### 3D Model
 
+[View the interactive 3D model](./images/DualCameraMount0.3-Body.gltf)
+
+(Click the link above to view the model with rotation, zoom, and pan controls in GitHub's 3D viewer)
 
 ## Project Details
 
