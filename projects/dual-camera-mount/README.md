@@ -8,9 +8,9 @@ A custom designed mount to hold two turret security cameras. The mount is design
 
 ## Gallery
 
-![SolidWorks Model](./images/Solidworks Model.jpg)
+![Dual Camera Mount](./images/DualCameraMount.jpg)
 
-![3D Printed Prototype](./3D Printed Prototype.jpg)
+![Dual Camera Mount Model](./DualCameraMount0.3-Body.step)
 
 
 ## Project Details
