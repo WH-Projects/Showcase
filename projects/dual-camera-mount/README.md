@@ -10,7 +10,7 @@ A custom designed mount to hold two turret security cameras. The mount is design
 
 ![Dual Camera Mount](./images/DualCameraMount.jpg)
 
-![Dual Camera Mount Model](./DualCameraMount0.3-Body.step)
+![Dual Camera Mount Model](./images/DualCameraMount0.3-Body.step)
 
 
 ## Project Details
