@@ -12,7 +12,7 @@ A custom designed mount to hold two turret security cameras. The mount is design
 
 ### 3D Model
 
-[View the interactive 3D model](./images/DualCameraMount0.3-Body.gltf)
+[View the interactive 3D model](./images/DualCameraMount0.3.stl)
 
 (Click the link above to view the model with rotation, zoom, and pan controls in GitHub's 3D viewer)
 
